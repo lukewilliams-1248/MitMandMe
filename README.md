@@ -1,6 +1,6 @@
 # MitMandMe
 
-Now that we have successfully conducted a Man in the Middle attack with our ARP spoofer from the [Python Quick Scripts](https://github.com/ggedgerton/quickPythonScripts/README.md) repo what do we do?
+Now that we have successfully conducted a Man in the Middle attack with our ARP spoofer from the [Python Quick Scripts](https://github.com/ggedgerton/quickPythonScripts) repo what do we do?
 
 ***
 
